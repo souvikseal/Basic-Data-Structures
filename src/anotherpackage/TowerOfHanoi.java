@@ -14,6 +14,6 @@ public class TowerOfHanoi {
 
 	   public static void main(String[] args) {
 	       TowerOfHanoi towersOfHanoi = new TowerOfHanoi();
-	       towersOfHanoi.solve(3, "A", "B", "C");
+	       towersOfHanoi.solve(5, "A", "B", "C");
 	   }
 	}
