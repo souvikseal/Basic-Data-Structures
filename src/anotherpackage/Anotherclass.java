@@ -1,7 +1,7 @@
 package anotherpackage;
 public class Anotherclass {
-	public int subtract(int a, int b){
-		return(a-b);
+	public int subtract(int x, int y){
+		return(x-y);
 	}
 	public static void main(String []args) {
 		Anotherclass a = new Anotherclass();
